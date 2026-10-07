@@ -237,10 +237,11 @@ CRA Annex I Part II (1) obliges manufacturers to identify and document the compo
 
 ### Coordinated Vulnerability Disclosure
 
+- [CRA Article 14 Reporting Kit](https://github.com/stavenor-hq/cra-article-14-reporting-kit) - Reference files for Article 14 reporting: the filing deadlines and their triggers, the fields of ENISA's Single Reporting Platform with their character limits, and a coordinated vulnerability disclosure policy template with a security.txt example. *Free, CC BY 4.0.*
 - [ENISA — Good practice guide on vulnerability disclosure](https://www.enisa.europa.eu/publications/vulnerability-disclosure) - ENISA's multi-stakeholder guide, often cited by Art. 13(8) and Annex I Part II (5). *Free download.*
+- [ENISA — Single Reporting Platform (SRP)](https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp) - ENISA's platform for Art. 14 early warnings, notifications and final reports, live since 11 September 2026. ENISA publishes the platform's FAQ, field glossary and registration guidance from this page. *Free.*
 - [FIRST — PSIRT Services Framework](https://www.first.org/standards/frameworks/psirts/) - Framework for operating a Product Security Incident Response Team; critical for CRA vulnerability-handling obligations. *Free.*
 - [OASIS CSAF (Common Security Advisory Framework)](https://csaf.io/) - Machine-readable security advisory format used by Siemens, Red Hat, Cisco and others for CVD automation. *Free and open.*
-- **ENISA — Single Reporting Platform** *(not yet released — placeholder)* - Art. 14 requires early warning, incident, and vulnerability reports to be routed through a single reporting platform run by ENISA. ENISA has not yet published the platform or its technical interface; monitor [ENISA announcements](https://www.enisa.europa.eu/news) for release news.
 
 ### ENISA Guidelines
 
